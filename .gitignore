@@ -1,0 +1,16 @@
+i
+#comments can be placed
+!gitcommandtext.py
+:wq
+
+
+i
+!gitcommandtext.py
+:wq
+i
+*.py
+:wq
+i
+.gitignore images/
+:wq
+tharun/
